@@ -2,8 +2,8 @@
 
 <div style="width: 100%">
     <div style="display: flex; flex-direction: row; width: 100%">
-        <img style="margin-bottom: 10px; width: 50%" src="https://github-readme-stats.vercel.app/api?username=jamesboyer92&count_private=true&show_icons=true&card_width=300&hide_border=true&theme=radical" />
-        <img style="margin-bottom: 10px; width: 50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesboyer92&layout=compact&langs_count=4&hide_border=true&theme=radical" />
+        <img style="margin-bottom: 10px; width: 48%" src="https://github-readme-stats.vercel.app/api?username=jamesboyer92&count_private=true&show_icons=true&card_width=300&hide_border=true&theme=radical" />
+        <img style="margin-bottom: 10px; width: 48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesboyer92&layout=compact&langs_count=4&hide_border=true&theme=radical" />
     </div>
     <div style="display: flex; flex-direction: row; width: 100%; justify-content: center;">
         <div style="display: flex; flex-direction: column; justify-content: space-between; padding-bottom: 3px; width: 50%">
@@ -25,3 +25,6 @@
         <img style="border-radius: 20px; margin-right: 10px" src="https://avatars.githubusercontent.com/u/78454137?s=200&v=4" />
     </div>
 </div>
+
+
+
