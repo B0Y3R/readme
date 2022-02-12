@@ -2,19 +2,19 @@
 
 <div style="width: 100%">
     <div style="display: flex; flex-direction: row; width: 100%">
-        <img style="margin-bottom: 10px; width: 48%" src="https://github-readme-stats.vercel.app/api?username=jamesboyer92&count_private=true&show_icons=true&card_width=300&hide_border=true&theme=radical" />
-        <img style="margin-bottom: 10px; width: 48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesboyer92&layout=compact&langs_count=4&hide_border=true&theme=radical" />
+        <img style="margin-bottom: 10px; width: 49%" src="https://github-readme-stats.vercel.app/api?username=jamesboyer92&count_private=true&show_icons=true&card_width=300&hide_border=true&theme=radical" />
+        <img style="margin-bottom: 10px; width: 49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesboyer92&layout=compact&langs_count=4&hide_border=true&theme=radical" />
     </div>
-    <div style="display: flex; flex-direction: row; width: 100%; justify-content: center;">
-        <div style="display: flex; flex-direction: column; justify-content: space-between; padding-bottom: 3px; width: 50%">
-            <img style="margin: 5px;" src="https://github-readme-stats.vercel.app/api/pin/?username=jamesboyer92&repo=Animation-Design-Demo&theme=radical" />
-            <img style="margin: 5px;" src="https://github-readme-stats.vercel.app/api/pin/?username=jamesboyer92&repo=Mobile_CV&theme=radical" />
-            <img style="margin: 5px;" src="https://github-readme-stats.vercel.app/api/pin/?username=jamesboyer92&repo=SwiftUI-Tic-Tac-Toe&theme=radical" />
+    <div style="display: flex; flex-direction: row; width: 100%; justify-content: space-between;">
+        <div style="display: flex; flex-direction: column; justify-content: space-between; padding-bottom: 3px; width: 49%">
+            <img style="margin-bottom: 5px;" src="https://github-readme-stats.vercel.app/api/pin/?username=jamesboyer92&repo=Animation-Design-Demo&theme=radical" />
+            <img style="margin-bottom: 5px;" src="https://github-readme-stats.vercel.app/api/pin/?username=jamesboyer92&repo=Mobile_CV&theme=radical" />
+            <img style="margin-bottom: 5px;" src="https://github-readme-stats.vercel.app/api/pin/?username=jamesboyer92&repo=SwiftUI-Tic-Tac-Toe&theme=radical" />
         </div>
-        <div style="display: flex; flex-direction: column; justify-content: space-between; padding-bottom: 3px; width: 50%">
-            <img style="margin: 5px;" src="https://github-readme-stats.vercel.app/api/pin/?username=jamesboyer92&repo=SwiftUI-List-components&theme=radical" />
-            <img style="margin: 5px;"src="https://github-readme-stats.vercel.app/api/pin/?username=jamesboyer92&repo=Circles&theme=radical" />
-            <img style="margin: 5px;" src="https://github-readme-stats.vercel.app/api/pin/?username=jamesboyer92&repo=django-blog&theme=radical" />
+        <div style="display: flex; flex-direction: column; justify-content: space-between; padding-bottom: 3px; width: 49%">
+            <img style="margin-bottom: 5px;" src="https://github-readme-stats.vercel.app/api/pin/?username=jamesboyer92&repo=SwiftUI-List-components&theme=radical" />
+            <img style="margin-bottom: 5px;" src="https://github-readme-stats.vercel.app/api/pin/?username=jamesboyer92&repo=Circles&theme=radical" />
+            <img style="margin-bottom: 5px;" src="https://github-readme-stats.vercel.app/api/pin/?username=jamesboyer92&repo=django-blog&theme=radical" />
         </div>
     </div>
     <h1>Organizations i've contributed too...</h1>
