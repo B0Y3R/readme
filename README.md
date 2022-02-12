@@ -9,12 +9,12 @@
         <div style="display: flex; flex-direction: column; justify-content: space-between; padding-bottom: 3px; width: 49%">
             <img style="margin-bottom: 5px;" src="https://github-readme-stats.vercel.app/api/pin/?username=jamesboyer92&repo=Animation-Design-Demo&theme=radical" />
             <img style="margin-bottom: 5px;" src="https://github-readme-stats.vercel.app/api/pin/?username=jamesboyer92&repo=Mobile_CV&theme=radical" />
-            <img style="margin-bottom: 5px;" src="https://github-readme-stats.vercel.app/api/pin/?username=jamesboyer92&repo=SwiftUI-Tic-Tac-Toe&theme=radical" />
+            <img style="margin-bottom: 5px;" src="https://github-readme-stats.vercel.app/api/pin/?username=jamesboyer92&repo=Circles&theme=radical" />
         </div>
         <div style="display: flex; flex-direction: column; justify-content: space-between; padding-bottom: 3px; width: 49%">
             <img style="margin-bottom: 5px;" src="https://github-readme-stats.vercel.app/api/pin/?username=jamesboyer92&repo=SwiftUI-List-components&theme=radical" />
-            <img style="margin-bottom: 5px;" src="https://github-readme-stats.vercel.app/api/pin/?username=jamesboyer92&repo=Circles&theme=radical" />
             <img style="margin-bottom: 5px;" src="https://github-readme-stats.vercel.app/api/pin/?username=jamesboyer92&repo=django-blog&theme=radical" />
+            <img style="margin-bottom: 5px;" src="https://github-readme-stats.vercel.app/api/pin/?username=jamesboyer92&repo=SwiftUI-Tic-Tac-Toe&theme=radical" />
         </div>
     </div>
     <h1>Organizations i've contributed too...</h1>
