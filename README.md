@@ -1,5 +1,5 @@
 <div style="width: 100%">
-    <h2>Hello! I'm James, I'm a self taught fullStack software engineer focusing on web and mobile applications</h2>
+    <h2>Hello! I'm James, I'm a self taught full stack software engineer focused on building web and mobile applications</h2>
     <h4>About</h4>
     <ul>
         <li>Was Previously a Automotive Technician, holding certifcations in Mercedes Benz, Nissan, and Infinity</li>
