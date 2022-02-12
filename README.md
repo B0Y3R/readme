@@ -1,5 +1,5 @@
-## Hello! 
-## I'm James, a FullStack Software engineer focusing on web and mobile based in NYC
+
+## Hello! I'm James, a FullStack Software engineer focusing on web and mobile based in NYC
 
 <div style="width: 100%">
     <div style="display: flex; flex-direction: row; width: 100%">
