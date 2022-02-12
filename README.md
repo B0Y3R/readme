@@ -1,5 +1,3 @@
-# I'm James, A Fullstack web, and mobile developer in NYC 🌃 
-
 <div style="width: 100%">
     <div style="display: flex; flex-direction: row; width: 100%">
         <img style="margin-bottom: 10px; width: 49%" src="https://github-readme-stats.vercel.app/api?username=jamesboyer92&count_private=true&show_icons=true&card_width=300&hide_border=true&theme=radical" />
