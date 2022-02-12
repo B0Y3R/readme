@@ -6,7 +6,7 @@
         <img style="margin-bottom: 10px; width: 49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesboyer92&layout=compact&langs_count=4&hide_border=true&theme=radical" />
     </div>
     <h1>Organizations i've contributed too...</h1>
-    <div style="display: flex; flex-wrap: wrap; margin-bottom: 10px; justify-content: space-between">
+    <div style="display: flex; margin-bottom: 10px; justify-content: space-between">
         <img style="border-radius: 20px; margin-right: 10px" src="https://avatars.githubusercontent.com/u/4390297?s=200&v=4" />
         <img style="border-radius: 20px; margin-right: 10px" src="https://avatars.githubusercontent.com/u/16691781?s=200&v=4" />
         <img style="border-radius: 20px; margin-right: 10px" src="https://avatars.githubusercontent.com/u/64280592?s=200&v=4" />
